@@ -2,9 +2,17 @@ body {
 	background-color: silver;
 	color: white;
 	font-family: 'Roboto', sans-serif;
+/*	background: linear-gradient(to right, blanchedalmond, silver);
+*/
 	
-	background: linear-gradient(to right, #02132d, #ffffff);
+	background: linear-gradient(to right, #02132d, #ad757e);
 	
+	/*
+	background-image: url("images/logo4.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: left bottom;
+	*/
 }
 
 div.front {
